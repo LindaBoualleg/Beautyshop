@@ -1,0 +1,50 @@
+body {
+	background-color: #F9E0D9;
+	font-family: roboto;
+}
+.section{
+	color: hotpink;
+	font-style: oblique;
+	text-decoration: underline;
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+	margin: 5px;
+	border: solid;
+	background-color: #cfbaf0;
+	padding: 2px;
+}
+.nav:hover{
+	color: #8eecf5;
+}
+a:visited{
+	color: purple;
+}
+nav{
+	display: inline;
+}
+
+table{
+	border: dashed;
+	border-color: #352D39;
+}
+#girl{
+	float: left;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+input{
+	background-color: #fcd5ce;
+	border: 1;
+	border-radius: 5px;
+	margin: 5px;
+}
+td{
+	padding: 5px;
+}
+
+.hair img{
+	margin: 5px;
+	border-radius: 7px;
+}
